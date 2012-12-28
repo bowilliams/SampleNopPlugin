@@ -1,0 +1,8 @@
+﻿Group: Widgets
+FriendlyName: Sample Plugin
+SystemName: Widgets.SamplePlugin
+Version: 1.0
+SupportedVersions: 2.70
+Author: Sample Author
+DisplayOrder: 1
+FileName: Nop.Plugin.Widgets.SamplePlugin.dll
